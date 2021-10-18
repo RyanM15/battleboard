@@ -4,7 +4,7 @@ public class Battleboard{
 	
 	public static void main (String[] args) {
 	
-	int [][] board = new int[10][10];//makes array
+	int [][] board = new int[10][10];//creates a ten by ten array
 	
 	//we should make this a board class to print this in one and save space
 	System.out.println("YOUR SHIPS");//board for player ships
