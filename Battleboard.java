@@ -7,7 +7,7 @@ public class Battleboard{
 	int [][] board = new int[10][10];//makes array
 	
 	//we should make this a board class to print this in one and save space
-	System.out.println("YOUR SHIPS");
+	System.out.println("YOUR SHIPS");//board for player ships
 	System.out.println("  |1|2|3|4|5|6|7|8|9|10| ");
 	System.out.println("A |_|_|_|_|_|_|_|_|_|_| ");
 	
@@ -33,7 +33,7 @@ public class Battleboard{
 	System.out.println("\n");
 	System.out.println("\n");
 	
-	System.out.println("OPPONENT SHIPS");
+	System.out.println("OPPONENT SHIPS"); 
 	System.out.println("  |1|2|3|4|5|6|7|8|9|10| ");
 	
 	System.out.println("A |_|_|_|_|_|_|_|_|_|_| ");
