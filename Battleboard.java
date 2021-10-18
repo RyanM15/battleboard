@@ -8,7 +8,7 @@ public class Battleboard{
 	
 	//we should make this a board class to print this in one and save space
 	System.out.println("YOUR SHIPS");//board for player ships
-	System.out.println("  |1|2|3|4|5|6|7|8|9|10| ");
+	System.out.println("  |1|2|3|4|5|6|7|8|9|10| "); //added numbers and letters to be more precise with the grid and more true to the original game
 	System.out.println("A |_|_|_|_|_|_|_|_|_|_| ");
 	
 	System.out.println("B |_|_|_|_|_|_|_|_|_|_| ");
