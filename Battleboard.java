@@ -59,6 +59,13 @@ public class Battleboard{
     shipthree = new ship [3];
     shipfour = new ship [4];
     shipfive = new ship [5];
+
+    //if (ship = hit)
+    //{
+        //ship3,4,5.hit()
+
+    //}
+    
 	
 	
 	
