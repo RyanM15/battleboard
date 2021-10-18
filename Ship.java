@@ -1,11 +1,10 @@
 //handles each ship object
-import java.util.Scanner;
 
 public class Ship {
     int lives;
 
     //passes through length of the ship, which is essentially how many lives it has
-    public Ship (length){
+    public Ship (int length){
         lives = length;
     }
 
