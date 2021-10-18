@@ -33,7 +33,7 @@ public class Battleboard{
 	System.out.println("\n");
 	System.out.println("\n");
 	
-	System.out.println("OPPONENT SHIPS"); 
+	System.out.println("OPPONENT SHIPS"); //board for player guesses
 	System.out.println("  |1|2|3|4|5|6|7|8|9|10| ");
 	
 	System.out.println("A |_|_|_|_|_|_|_|_|_|_| ");
