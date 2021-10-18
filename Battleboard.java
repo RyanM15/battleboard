@@ -55,7 +55,10 @@ public class Battleboard{
 	System.out.println("I |_|_|_|_|_|_|_|_|_|_| ");
 	
 	System.out.println("J |_|_|_|_|_|_|_|_|_|_| ");
-	
+
+    shipthree = new ship [3];
+    shipfour = new ship [4];
+    shipfive = new ship [5];
 	
 	
 	
