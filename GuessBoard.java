@@ -1,5 +1,6 @@
 
 //handles showing the viewer their guess board
+//this class was made by Kai, but bc of saving issues, it was recreated by Daniel remembering Kai's layout
 public class GuessBoard{
     char [][] board = new char[10][10];
 	//makes board
