@@ -5,7 +5,7 @@ public class ComputerBoard{
     boolean placed = false;
     double orientation = 0;
     double direction = 0;
-
+    //handles placing ships
     public void placeShips(){
         for (int r = 0; r < 10; r++)//rows
 	    {
@@ -39,6 +39,7 @@ public class ComputerBoard{
         
        
     }
+    //individual ships being placed randomly
     public boolean ship(int length, char letter){
         for(int i = 0; i<length; i++){
                 if(i==0){
@@ -98,6 +99,7 @@ public class ComputerBoard{
             }
             return true;
     }
+    //handles the player's guess of where the computer ships are
     public int playerGuess(int row, int col){
 
 	int totalShips = 12;
