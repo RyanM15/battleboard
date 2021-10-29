@@ -35,7 +35,7 @@ public class BattleTester {
 	}
 	public static void understood(){
 		Scanner scan = new Scanner(System.in);
-	System.out.println("Cool! You place your ships by placing a 3,4, or 5 long ship\nFirst you place your 3 coordinate long ship \n Then your 4 coordinate long ship \n Finally you place you 5 coordinate long ship\nTo place your ships list out the coordinates that you want your ship to be placed at\n Example: If you want your 3 coordinate long ship to be at D6 - D8, you would write this out as D6, D7, D8");
+	System.out.println("Cool! You place your ships by placing a 3,4, or 5 long ship\nFirst you place your 3 coordinate long ship \n Then your 4 coordinate long ship \n Finally you place you 5 coordinate long ship\nTo place your ships list out the coordinates that you want your ship to be placed at\n");
         Game game = new Game();
         boolean win = game.play();
         if(win){
