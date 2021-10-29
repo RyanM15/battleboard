@@ -21,5 +21,4 @@ Daniel:
 - placeShips() for PlayerBoard.java and ComputerBoard.java (both regular and blitz modes)
 - computerGuess() in ComputerBoard.java
 - Game.java
-- housekeeping, overall comments
 
